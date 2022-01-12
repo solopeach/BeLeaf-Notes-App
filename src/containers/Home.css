@@ -15,3 +15,15 @@
 .home .lander FaLeaf {
   color: #333;
 }
+
+.home .notes h4 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  overflow: hidden;
+  line-height: 1.5;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.home .notes p {
+  color: #666;
+}
